@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468184215093",
+    "project_id": "muet-in",
+    "storage_bucket": "muet-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468184215093:android:62f5331038d8461e14cb7c",
+        "android_client_info": {
+          "package_name": "com.gmbaloch898.muetin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjYVvMBiMeaAYXcwuD-X3TIcj7g87TKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
